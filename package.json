@@ -1,0 +1,22 @@
+{
+  "name": "search-target-element",
+  "version": "1.0.1",
+  "description": "A simple binary search implementation in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "algorithm",
+    "npm"
+  ],
+  "author": "Deepesh Pundir",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
